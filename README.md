@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ghofrane 👋<br>🎓 2nd-year IT student @ ISET Nabeul<br>💻 Passionate about Web Development, AI , Roboticsand programming<br>🚀 Always learning and building new projects<br>⚡ Curious mind with a love for innovation
+Hi, I'm Ghofrane 👋<br>🎓 2nd-year IT student @ ISET Nabeul<br>💻 Passionate about Web Development, AI , Robotics and programming<br>🚀 Always learning and building new projects<br>⚡ Curious mind with a love for innovation
 
 
 ## 🌐 Socials:
